@@ -43,7 +43,7 @@ I enjoy solving problems, writing clean code, and continuously improving my skil
 ## 🤝 Let's Connect!  
 
 💼 [LinkedIn](https://www.linkedin.com/in/gabrielmattioli1/)  
-📧 gabriel.bc04@hotmail.com  
+📧 gabriel.mattioli1@hotmail.com  
 
 🔎 **Looking for a junior developer role – Let’s connect!**  
 
@@ -51,4 +51,4 @@ I enjoy solving problems, writing clean code, and continuously improving my skil
 
 ---
 
-📅 **Last Edited:** 06.03.2025
+📅 **Last Edited:** 16.04.2025
