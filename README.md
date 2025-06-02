@@ -2,9 +2,9 @@
   <h1 align="center">Hello! I'm Gabriel <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 </p>
 
-🚀 **Junior Software Developer | Open to Work**  
+🚀 **Junior Software Developer**  
 
-I enjoy solving problems, writing clean code, and continuously improving my skills. Currently, I'm **seeking a new opportunity** where I can contribute and grow as a developer.  
+I enjoy solving problems, writing clean code, and continuously improving my skills.  
 
 ---
 
@@ -36,7 +36,7 @@ I enjoy solving problems, writing clean code, and continuously improving my skil
 |:-:|:-:|:-:|
 | **JavaFX** | **JDBC** | **Java Swing** |
 
-🌍 Always excited to explore new technologies! Currently learning **Spring Boot**.  
+🌍 Always excited to explore new technologies! Currently learning **Spring** and **JavaScript**.  
 
 ---
 
@@ -44,10 +44,6 @@ I enjoy solving problems, writing clean code, and continuously improving my skil
 
 💼 [LinkedIn](https://www.linkedin.com/in/gabrielmattioli1/)  
 📧 gabriel.mattioli1@hotmail.com  
-
-🔎 **Looking for a junior developer role – Let’s connect!**  
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabrielmattioli1/)
 
 ---
 
