@@ -9,11 +9,10 @@ I enjoy solving problems, writing clean code, and continuously improving my skil
 ---
 
 ## 🌱 About Me  
-- 🎓 **IT Specialist in Application Development**
-- 🚀 **Currently improving** my skills in **Java** and exploring **JavaScript**  
-- 💡 **Open to** junior developer roles and internships
+- 🎓 **Computer Science Expert**
+- 🚀 **Currently improving** my skills in **Java** and learning **JavaScript**  
 - 🌍 **Multilingual**: I speak **4 languages**  
-- 🎯 **Goal:** Build impactful applications and learn from experienced developers  
+- 🎯 **Goal:** Become a Java Fullstack Developer  
 
 ---
 
@@ -47,4 +46,4 @@ I enjoy solving problems, writing clean code, and continuously improving my skil
 
 ---
 
-📅 **Last Edited:** 16.04.2025
+📅 **Last Edited:** 08.09.2025
